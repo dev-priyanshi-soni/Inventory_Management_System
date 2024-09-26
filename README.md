@@ -14,7 +14,7 @@ The Inventory Management System.
 ## Install requirements
    pip install -r requirements.txt
 ## make migrations
-   python manage.py makemigrations
-   pyhton manage.py migrate
+   -python manage.py makemigrations
+   -pyhton manage.py migrate
 ## Run the server
    python manage.py runserver
